@@ -1,0 +1,18 @@
+.desc{
+    padding: 5%;
+    padding-top: 0%;
+  }
+h2{
+  text-align: center;
+  font-size: xx-large;
+}
+h4{
+  text-align: center;
+}
+.disp{
+  display: flex;
+}
+.video{
+  padding-top: 6%;
+  padding-left: 23%;
+}
